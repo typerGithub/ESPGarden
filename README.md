@@ -6,5 +6,23 @@ This Arduino project needs for greenhouse to control temperature and humidity of
 # Installation on ESP32
 **Needs for installing on ESP32**
 * ESP32 Board
-* Arduino IDE
+* Installed Arduino IDE
 * Installed git 
+
+
+First connect ESP32 to your PC
+
+
+Open a Arduino IDE on your PC
+
+
+Execute this command to clone repo:
+
+```text
+git clone https://github.com/typerGithub/ESPWeather.git
+```
+
+Open a code in Arduino IDE  
+
+# Important!!!
+
