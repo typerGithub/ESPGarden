@@ -24,5 +24,4 @@ git clone https://github.com/typerGithub/ESPWeather.git
 
 Open a code in Arduino IDE  
 
-# Important!!!
 
