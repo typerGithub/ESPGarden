@@ -19,7 +19,7 @@ Open a Arduino IDE on your PC
 Execute this command to clone repo:
 
 ```text
-git clone https://github.com/typerGithub/ESPWeather.git
+git clone https://github.com/typerGithub/ESPGarden.git
 ```
 
 Open a code in Arduino IDE  
@@ -47,7 +47,7 @@ Open a code in Arduino IDE
 
 
 ```text
-git clone https://github.com/typerGithub/ESPWeather.git
+git clone https://github.com/typerGithub/ESPGarden.git
 ```
 
 
